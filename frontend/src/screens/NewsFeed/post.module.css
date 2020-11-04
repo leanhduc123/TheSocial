@@ -1,0 +1,10 @@
+.iconButton{
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.iconButton:hover{
+    color: #007bff;
+    background-color: lightgray;
+}

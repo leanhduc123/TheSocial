@@ -1,0 +1,7 @@
+.composer {
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  font-size: 36px;
+  text-shadow: 1px 1px 2px white, 0 0 25px #007bff, 0 0 5px white;
+}
